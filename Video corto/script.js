@@ -1,0 +1,3 @@
+let p1="Mi cuarto es un espacio de tranquilidad nocturna, un espacio que se complementa con la noche y con la belleza del silencio en esta zona de la ciudad. Poco se escucha todo: los carros apenas avanzan, las motos apenas aceleran, los pasos de las personas disminuyen, mi cuarto se vuelve un espacio seguro en donde la noche se fusiona con las paredes, los muebles, la luz lavanda cambiada con alexa y los posters. Amo mi cuarto porque es un espacio propio y amo como puede pertenecerme a mí y solo a mí, porque a mi me gusta la soledad en momentos en los que sé que nada más puede pertenecerme como ella. Soy una persona que_ a pesar de no quererlo_ se acostumbró a estar solo, y la soledad se vuelve cómoda en mi cuarto."
+
+document.getElementById('p1').innerHTML=p1;

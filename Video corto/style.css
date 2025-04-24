@@ -1,0 +1,29 @@
+body{
+    background: fixed;
+    align-items: center;
+    background-color: black;
+    size: 100;
+}
+
+.title{
+    color: blueviolet;
+    size: 100px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+.text{
+    color: white;
+    size: 50px;
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    margin: 20px;
+}
+
+.Video{
+    align-content: center;
+    margin: 20px;
+}
+
